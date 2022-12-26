@@ -119,4 +119,17 @@ body {
   letter-spacing: 2px;
   font-weight: bold;
   color: hsl(0deg, 0%, 59%);
+}
+
+@media (min-width: 1440px) {
+  .wrapper {
+    height: 38rem;
+    width: 35rem;
+  }
+  .wrapper .stats {
+    padding-top: 3rem;
+  }
+  .wrapper .line {
+    top: 0.5rem;
+  }
 }/*# sourceMappingURL=style.css.map */

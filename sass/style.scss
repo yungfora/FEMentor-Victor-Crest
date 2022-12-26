@@ -101,3 +101,16 @@ body {
 		}
 	}
 }
+
+@media (min-width: 1440px) {
+	.wrapper {
+		height: 38rem;
+		width: 35rem;
+		.stats {
+			padding-top: 3rem;
+		}
+		.line {
+			top: .5rem;
+		}
+	}
+}
